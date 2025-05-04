@@ -8,10 +8,6 @@ Supports real-world dashcam datasets as well as videos captured around vehicles.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tesla_Model_3_autopilot_sensors.jpg/800px-Tesla_Model_3_autopilot_sensors.jpg" width="500" alt="Autonomous Perception"/>
 </p>
 
-> **Example Output:**  
-> - Detected Vehicles and Pedestrians  
-> - Segmented Road and Lane Layout  
-> - Estimated Depth Map (distance calculation)
 
 ---
 
