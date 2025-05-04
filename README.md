@@ -4,13 +4,6 @@ An end-to-end Perception System that analyzes driving scenes from both images an
 Integrates multiple Computer Vision models to perform **Object Detection**, **Road/Lane Segmentation**, and **Depth Estimation**.  
 Supports real-world dashcam datasets as well as videos captured around vehicles.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tesla_Model_3_autopilot_sensors.jpg/800px-Tesla_Model_3_autopilot_sensors.jpg" width="500" alt="Autonomous Perception"/>
-</p>
-
-
----
-
 ## 🚀 Features
 
 - Unified Perception Pipeline handling both images and videos.
