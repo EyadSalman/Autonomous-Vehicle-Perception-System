@@ -4,10 +4,6 @@ An end-to-end Perception System that analyzes driving scenes from both images an
 Integrates multiple Computer Vision models to perform **Object Detection**, **Road/Lane Segmentation**, and **Depth Estimation**.  
 Supports real-world dashcam datasets as well as videos captured around vehicles.
 
-<p align="center">
-  <img src="https://tse1.mm.bing.net/th?id=OIP.XG1fSRGcnDvx0Mg6XzJONAHaEK&cb=iwp1&pid=Api" width="600" alt="Autonomous Vehicle Perception System Example">
-</p>
-
 ## 🚀 Features
 
 - Unified Perception Pipeline handling both images and videos.
