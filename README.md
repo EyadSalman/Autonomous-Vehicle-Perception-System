@@ -5,7 +5,7 @@ Integrates multiple Computer Vision models to perform **Object Detection**, **Ro
 Supports real-world dashcam datasets as well as videos captured around vehicles.
 
 <p align="center">
-  <img src="download (3).png" width="900" alt="Perception Output Example"/>
+  <img src="https://tse1.mm.bing.net/th?id=OIP.XG1fSRGcnDvx0Mg6XzJONAHaEK&cb=iwp1&pid=Api" width="600" alt="Autonomous Vehicle Perception System Example">
 </p>
 
 ## 🚀 Features
