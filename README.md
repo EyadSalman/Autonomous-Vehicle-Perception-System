@@ -21,9 +21,3 @@ Supports real-world dashcam datasets as well as videos captured around vehicles.
 - [Videos Around Cars Dataset](https://www.kaggle.com/datasets/tapakah68/videos-around-cars)
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/autonomous-vehicle-perception.git
-cd autonomous-vehicle-perception
